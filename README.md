@@ -1,4 +1,4 @@
-### fullstack-labs-challenge
+## fullstack-labs-challenge
 Fullstack Labs automated tests Challenge
 
 ## Automated Tests for an Pet Appointment
